@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/abok-cymk/time-tracking-dashboard-main)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://time-tracking-dashboard-main-git-main-allan-aboks-projects.vercel.app/)
 
 ### Built with
 
