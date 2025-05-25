@@ -24,11 +24,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot4.png)
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
+- Solution URL: [solution URL](https://github.com/abok-cymk/time-tracking-dashboard-main)
 - Live Site URL: [live site URL](https://your-live-site-url.com)
 
 ### Built with
