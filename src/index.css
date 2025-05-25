@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+
+    /* Work  */
+    --color-work-orange-300: hsl(15, 100%, 70%);
+    /* Play */
+    --color-play-blue-300: hsl(195, 74%, 62%);
+    /* Study */
+    --color-study-pink-400: hsl(348, 100%, 68%);
+    /* Exercise */
+    --color-exercise-green-400: hsl(145, 58%, 55%);
+    /* Social */
+    --color-social-purple-700: hsl(264, 64%, 52%);
+    /* Self care */
+    --color-selfCare-yellow-300: hsl(43, 84%, 65%);
+
+    --color-myNavy950: hsl(226, 43%, 10%);
+    --color-myNavy900: hsl(235, 46%, 20%);
+    --color-myNavy800: hsl(236, 38%, 23%);
+    --color-myNavy200: hsl(236, 100%, 87%);
+    --color-myPurple500: hsl(235, 45%, 61%);
+
+    --text-cardTitles: 1.125em;
+
+    /* Font */
+    --font-weight-300: 300;
+    --font-weight-400: 400;
+    --font-weight-500: 500;
+
+    --font-rubik: "Rubik", sans-serif;
+}
