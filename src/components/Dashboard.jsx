@@ -53,6 +53,7 @@ const Dashboard = ({ data }) => {
           <div className="flex flex-row justify-between gap-4 p-6 lg:flex-col">
             {["daily", "weekly", "monthly"].map((period) => (
               <button
+              type="button"
                 key={period}
                 onClick={() => setTimeframe(period)}
                 className={`cursor-pointer text-left ${
@@ -82,7 +83,7 @@ const Dashboard = ({ data }) => {
                 <h2 className="text-cardTitles font-medium text-white">
                   {item.title}
                 </h2>
-                <button className="cursor-pointer text-slate-400 hover:text-white">
+                <button type="button" className="cursor-pointer text-slate-400 hover:text-white">
                   <span className="sr-only">ellipsis icon</span>
                   <svg width="21" height="5" xmlns="http://www.w3.org/2000/svg">
                     <path
